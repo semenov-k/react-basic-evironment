@@ -8,6 +8,7 @@ Run development server and open new tab in browser
 ```console
 $ npm start
 ``` 
+**OR**
 
 Run build (into ```dist``` folder)
 ```console
